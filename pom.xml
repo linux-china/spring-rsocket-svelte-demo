@@ -12,7 +12,7 @@
     <artifactId>spring-rsocket-svelte-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>spring-rsocket-svelte-demo</name>
-    <description>Spring RSocket with Svlete</description>
+    <description>Spring RSocket with Svelte</description>
 
     <properties>
         <java.version>1.8</java.version>
